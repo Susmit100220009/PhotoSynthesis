@@ -1,0 +1,28 @@
+ul{
+    
+    list-style: none;
+    float: right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:black;
+    position: absolute;
+    z-index: 10;
+}
+a{
+    text-decoration: none;
+}
+.links {
+    float: left;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: :5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: inherit;
+    font-size: 20px;
+}
+.links:hover {
+    background-color: crimson;
+    
+}
